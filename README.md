@@ -6,13 +6,15 @@ Helper Functions::
 
 Clears the current output and prints the current state of the Tic-Tac-Toe board.
 The board is represented by a list where the indices correspond to positions on the board:
-markdown.
 
-Copy code
 7 | 8 | 9
+
 ---------
+
 4 | 5 | 6
+
 ---------
+
 1 | 2 | 3
 
 2. player_input():
