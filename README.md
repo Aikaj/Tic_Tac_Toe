@@ -94,6 +94,7 @@ Helper Functions::
  If 'Yes', restart the game; if 'No', exit the loop and end the script.
 
 ** Improvements and Error Handling
+
  The current implementation assumes all user inputs are valid. In practice, you might want to add additional error handling for unexpected or invalid inputs     
  (e.g., non-integer inputs for positions, invalid characters for markers).
  The replay() function should ideally handle different cases of 'yes' and 'no' (e.g., case insensitive).
